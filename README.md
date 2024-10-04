@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Building a Website](https://prathamsingh0116.github.io/DrPkNigam/)
 
-- 🌱 I’m currently learning **Web Development Full Stack Developer From Apna College**
+- 🌱 I’m certified **Full Stack Web Developer From Apna College**
 
 - 💬 Ask me about **Web Development and DSA Related Questions**
 
